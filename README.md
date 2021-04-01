@@ -1,5 +1,5 @@
 # Inheritance - Override and Super
-This little project show some examples about how de Override and super works in subclass.
+This little project show some examples about how the Override and super works in subclass.
 
 Technologies
 -------------------------------------
